@@ -21,6 +21,11 @@ h1 {
     padding: 25px;
 }
 
+h2 {
+    color: orange;
+    
+}
+
 /* Controls and Message Styles */
 .controls {
     padding: 20px;
